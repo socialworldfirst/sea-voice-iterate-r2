@@ -1,95 +1,49 @@
 {
   "slide_id": "P2-A8-1",
   "per_card": {
-    "PH1": [
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here are exactly three numbers a business owner needs to find a hidden foreign exchange fee.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says banks overcharge on China wires. Nobody shows the 30-second proof. Save this.", "recommended": true},
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If you're a business owner paying Chinese suppliers, watch this before your next wire.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why trusting the wire receipt costs business owners thousands a year.", "recommended": false},
-      {"category": "Educational Hooks", "template": "When you get (insert item/result), here are the # things you got to do right away.", "text": "When a wire confirmation hits, here are three numbers to pull right away.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (specific topic).", "text": "Here's what every business owner needs to know about the hidden fee on a China wire.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Okay, pull up your last wire receipt to China. We're going to walk through it together and find a fee your bank tucked away inside the exchange rate. Three little numbers, that's all.", "recommended": false}
-    ],
     "PH2": [
-      {"category": "Educational Hooks", "template": "Can you tell us how to (insert result) in 60 seconds?", "text": "Can a business owner find a hidden foreign exchange fee in 30 seconds? Watch.", "recommended": true},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly how 30 seconds of math exposes the real cost of a China wire.", "recommended": false},
-      {"category": "Authority Hooks", "template": "How to turn this into this in X simple steps.", "text": "How to turn one wire confirmation into a 1,175 dollar receipt in three steps.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says watch your foreign exchange margin. Nobody shows the math. 30-second tutorial.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Stop using (insert item) for (insert result).", "text": "Stop trusting the wire fee on the receipt to tell a business owner the real cost.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: a #-second method to (specific outcome), explained.", "text": "In this video: a 30-second method to see what a China wire actually cost, explained.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Give us thirty seconds. We'll show you a quick little trick to find the fee your bank hid inside your last China wire. Walk through it with us, step by step.", "recommended": false}
-    ],
-    "PH3": [
-      {"category": "Educational Hooks", "template": "This is what (insert #) of (insert item) looks like.", "text": "This is what 1,175 dollars of invisible foreign exchange margin looks like on one wire.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "The wire receipt says 40 dollars. The real cost on the rate was 1,175 dollars.", "recommended": true},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly how a business owner finds 1,175 dollars missing from a 50K wire.", "recommended": false},
-      {"category": "Authority Hooks", "template": "How to turn this into this in X simple steps.", "text": "How to turn a wire confirmation into proof of a 1,175 dollar fee in 30 seconds.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why ignoring the applied rate costs a business owner over 1,000 dollars per wire.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what (audience) needs to know about (specific outcome).", "text": "Here's what every business owner needs to know about the fee hiding in the wire rate.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Sounds wild, but your bank tucked about 1,175 dollars onto your last China wire and never put it on the receipt. Stick with us. We'll show you exactly where it's hiding.", "recommended": false}
-    ],
-    "PH4": [
-      {"category": "Educational Hooks", "template": "I'm going to tell you how to get (insert result), (insert mind-blowing method).", "text": "Here's how a business owner finds their real China wire cost in three numbers.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "The biggest cost on a China wire isn't on the confirmation. It's hidden in the rate.", "recommended": true},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone hears about foreign exchange margin. Here's the 30-second way to find it.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here are some slightly unethical (insert industry/niche) hacks that you should know if you're (insert target audience).", "text": "Here's the bank pricing trick a business owner sending wires to China should know.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly the three numbers needed to expose a hidden foreign exchange margin.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: how to (specific outcome) using # numbers, explained.", "text": "In this video: how to find the real cost of a China wire using three numbers, explained.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's a little something most business owners haven't been told. Your biggest cost on a China wire isn't on the receipt. It's tucked inside the rate. Three numbers and we'll show you.", "recommended": false}
-    ],
-    "PH5": [
-      {"category": "Educational Hooks", "template": "Here's exactly how you're gonna lock in if you want to (insert dream result).", "text": "Here's exactly how a business owner locks in proof of a hidden foreign exchange fee today.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Don't (insert action) until you've done this one thing.", "text": "Don't send another wire to China until a business owner has done this one check.", "recommended": true},
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If you wire money to China, every business owner needs to do this once. Today.", "recommended": false},
-      {"category": "Authority Hooks", "template": "Just # (insert item/action) took my client from (insert before) to (insert after).", "text": "Just one 30-second check showed a business owner 14,000 dollars in hidden annual fees.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why 12 wires a year quietly drain 14,000 dollars from a business owner's account.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (specific topic).", "text": "Here's what every business owner wiring money to China needs to know about annual fees.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "If you wire money to China, do this with us once. Today. Grab your last wire receipt and Google. Two tabs, thirty seconds, and you'll see what a year of these payments really costs.", "recommended": false}
-    ],
-    "PG1": [
-      {"category": "Myth-Busting Hooks", "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).", "text": "More business owners need to hear this. The wire receipt isn't telling them the real cost.", "recommended": true},
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If you're a business owner sending wires to China, this 30-second check is for you.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Stop using (insert item) for (insert result).", "text": "Stop using the wire fee line to judge what a China payment really cost.", "recommended": false},
-      {"category": "Random Hooks", "template": "I do not believe in (insert common belief), I believe in (insert your belief).", "text": "Business owners shouldn't believe the wire fee. They should believe the rate gap.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says watch foreign exchange spreads. Nobody shows how. 30 seconds. Save this.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: what (audience) gets wrong about (topic), explained.", "text": "In this video: what business owners get wrong about the cost of a China wire, explained.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "If you send wires to China, we want to share something with you. You probably think you know what your bank charged. You don't. Stick around, we'll show you in thirty seconds.", "recommended": false}
-    ],
-    "PG2": [
-      {"category": "Myth-Busting Hooks", "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).", "text": "More business owners need to hear this. The wire fee on the receipt isn't the real cost.", "recommended": false},
-      {"category": "Storytelling Hooks", "template": "After X years of (insert action) I realized one thing: (insert statement).", "text": "After years of talking to business owners sending wires to China, one pattern keeps showing up.", "recommended": true},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why feeling good about a 40 dollar wire fee costs business owners thousands a year.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly how much business owners lose by trusting the wire fee instead of the rate.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "The wire fee is 40 dollars. The hidden foreign exchange margin is 1,500. Same wire.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (specific topic).", "text": "Here's what every business owner needs to know about the gap between wire fee and real cost.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Most business owners we talk to have never once checked the real fee on a China wire. They look at the 40 dollar line, feel good, click send. Let's run the math together and see what they're missing.", "recommended": false}
-    ],
-    "PG3": [
-      {"category": "Myth-Busting Hooks", "template": "Stop using (insert item) for (insert result).", "text": "Stop using the wire receipt to judge what a China payment actually cost.", "recommended": true},
-      {"category": "Myth-Busting Hooks", "template": "It's time to throw away your (insert item), you don't need it anymore.", "text": "It's time for business owners to stop treating the wire receipt as the truth.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "They said, \"(insert famous cliché or quote)\" — that's a lie.", "text": "They said the wire fee on the receipt is what it cost. That's a lie.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Don't (insert action) until you've done this one thing.", "text": "Don't trust the wire receipt until a business owner checks the applied rate too.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Let me de-influence you from (insert action).", "text": "Let me de-influence every business owner from trusting that 40 dollar wire fee receipt.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: why (audience) should stop trusting (item), explained.", "text": "In this video: why business owners should stop trusting the wire receipt, explained.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's the thing about your wire receipt. It isn't telling you what you actually paid. That little 40 dollar line is bait. Walk with us for a sec and we'll show you the real number.", "recommended": false}
-    ],
-    "PG4": [
-      {"category": "Educational Hooks", "template": "I think I just found the biggest (insert niche/industry) cheat code.", "text": "Here's the biggest cheat code in business banking nobody's telling business owners.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "They said, \"(insert famous cliché or quote)\" — that's a lie.", "text": "They said the wire fee is the cost. That's bait. The real fee is on the rate.", "recommended": true},
-      {"category": "Educational Hooks", "template": "Here are some slightly unethical (insert industry/niche) hacks that you should know if you're (insert target audience).", "text": "Here's the slightly unethical pricing trick banks use on every China wire.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).", "text": "More business owners need to hear this. The wire fee is bait, not the real cost.", "recommended": false},
-      {"category": "Educational Hooks", "template": "It took me 10 years to learn this but I'll teach it to you in less than 1 minute.", "text": "Took years to spot this bank pricing trick. Here it is for business owners in 60 seconds.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (specific topic).", "text": "Here's what every business owner needs to know about how banks price a China wire.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's something nobody tells you about China wires. That little 40 dollar fee on the receipt is just bait, meant to keep you from looking closer. The real money is tucked inside the rate. Let us show you.", "recommended": false}
-    ],
-    "PG5": [
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Every business owner's heard of foreign exchange margin. Nobody shows it. Pause and do this.", "recommended": false},
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If you're a business owner paying Chinese suppliers, pause and grab a calculator.", "recommended": true},
-      {"category": "Authority Hooks", "template": "Just # (insert item/action) took my client from (insert before) to (insert after).", "text": "Just 30 seconds and a calculator showed business owners 750 to 1,500 dollars missing per wire.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Don't (insert action) until you've done this one thing.", "text": "Don't send another China wire until a business owner does this 30-second check.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here's exactly how you're gonna lock in if you want to (insert dream result).", "text": "Here's exactly how a business owner locks in proof of a hidden foreign exchange fee right now.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: a #-second check every (audience) should run, explained.", "text": "In this video: a 30-second check every business owner sending China wires should run, explained.", "recommended": false},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Quick one for business owners paying suppliers in China. Pause this, grab your phone, open your last wire receipt. We'll run a thirty second check together and you'll see the real cost yourself.", "recommended": false}
+      {
+        "category": "Educational Hooks",
+        "template": "Can you tell us how to (insert result) in 60 seconds?",
+        "text": "Can a business owner find a hidden foreign exchange fee in 30 seconds? Watch.",
+        "recommended": true
+      },
+      {
+        "category": "Educational Hooks",
+        "template": "Here's exactly how much (insert action/item) you need to (insert result)",
+        "text": "Here's exactly how 30 seconds of math exposes the real cost of a China wire.",
+        "recommended": false
+      },
+      {
+        "category": "Authority Hooks",
+        "template": "How to turn this into this in X simple steps.",
+        "text": "How to turn one wire confirmation into a 1,175 dollar receipt in three steps.",
+        "recommended": false
+      },
+      {
+        "category": "Educational Hooks",
+        "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.",
+        "text": "Everyone says watch your foreign exchange margin. Nobody shows the math. 30-second tutorial.",
+        "recommended": false
+      },
+      {
+        "category": "Myth-Busting Hooks",
+        "template": "Stop using (insert item) for (insert result).",
+        "text": "Stop trusting the wire fee on the receipt to tell a business owner the real cost.",
+        "recommended": false
+      },
+      {
+        "category": "Clarity",
+        "template": "In this video: a #-second method to (specific outcome), explained.",
+        "text": "In this video: a 30-second method to see what a China wire actually cost, explained.",
+        "recommended": false
+      },
+      {
+        "category": "Ultra Clarity",
+        "template": "ultra-clarity story-mode opener",
+        "text": "Give us thirty seconds. We'll show you a quick little trick to find the fee your bank hid inside your last China wire. Walk through it with us, step by step.",
+        "recommended": false
+      }
     ]
   }
 }

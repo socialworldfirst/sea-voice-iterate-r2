@@ -1,95 +1,49 @@
 {
   "slide_id": "P2-A14-1",
   "per_card": {
-    "PH1": [
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If you're a business owner paying Chinese suppliers by credit card, watch this before the next PO.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why offering Chinese suppliers a credit card gets the business owner rejected.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly why 95% of Chinese suppliers refuse the business owner's card.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "Stop using (insert item) for (insert result).", "text": "Stop using a credit card for paying Chinese factory orders.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says pay suppliers by card, nobody explains why they keep saying no.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (topic).", "text": "Here's what every business owner needs to know about why Chinese suppliers refuse credit cards.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Picture this. You run a small business. You try to pay a Chinese factory with your credit card. They say no. You think they're being difficult. They're not. Here's what's really going on.", "recommended": false}
-    ],
-    "PH2": [
-      {"category": "Educational Hooks", "template": "When you get (insert item/result), here are the # things you got to do right away.", "text": "When a Chinese supplier asks for T/T, here are the 4 things actually happening.", "recommended": false},
-      {"category": "Educational Hooks", "template": "This represents your X before, during, and after X", "text": "This is what the business owner thinks, and this is what the supplier actually sees.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "The card processes in seconds, the factory waits 180 days to know the money's real.", "recommended": false},
-      {"category": "Authority Hooks", "template": "How to turn this into this in X simple steps.", "text": "How a card payment becomes a supplier's nightmare in 4 simple steps.", "recommended": false},
-      {"category": "Educational Hooks", "template": "I'm going to tell you how to get (insert result), (insert mind-blowing method).", "text": "Here's why the supplier said no, broken into 4 things nobody explains.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: (topic), explained simply.", "text": "In this video: the 4 reasons a Chinese supplier picks T/T over your card, explained simply.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Watch this. You wanted to pay your supplier with a credit card. They asked for a bank transfer instead. You thought they were being annoying. They weren't. Let me walk you through what's actually happening.", "recommended": false}
-    ],
-    "PH3": [
-      {"category": "Myth-Busting Hooks", "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).", "text": "More business owners need to hear this. The supplier wasn't being difficult.", "recommended": false},
-      {"category": "Storytelling Hooks", "template": "After X years of (insert action) I realized one thing: (insert statement).", "text": "After years of blaming suppliers, business owners realize one thing: it was the wrong tool.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "They said, \"(insert famous cliché or quote)\" — that's a lie.", "text": "They said the supplier's being unreasonable. That's a lie.", "recommended": false},
-      {"category": "Educational Hooks", "template": "This is what (insert thing) looks like when you're (insert action). And this is what they look like when you're not (insert action).", "text": "This is what a card looks like to a buyer, and what it looks like to a factory.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why pushing a card on Chinese factories makes the supplier walk away.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) should understand about (topic).", "text": "Here's what every importer should understand about why Chinese suppliers refuse cards.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's the thing. You thought your supplier was being unreasonable. They weren't. You were just using the wrong tool. Let me show you what your supplier actually saw on their side of the deal.", "recommended": false}
-    ],
-    "PH4": [
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly why the credit card category was never built for factory orders.", "recommended": false},
-      {"category": "Educational Hooks", "template": "It took me 10 years to learn this but I'll teach it to you in less than 1 minute.", "text": "Most business owners take years to learn this. Here it is in 60 seconds.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "Cards were built for retail returns, factory orders run on totally different rails.", "recommended": false},
-      {"category": "Authority Hooks", "template": "How to turn this into this in X simple steps.", "text": "How a 12-week factory order collides with a 180-day chargeback window.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says pay by card, nobody explains the timeline that kills the supplier.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: (topic), explained simply.", "text": "In this video: why credit cards were built for retail, not factory orders, explained simply.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Imagine returning a sweater you don't like. Easy, right? Now picture doing that to a factory in week twelve of a big order. That's what the credit card is asking your supplier to live with.", "recommended": false}
-    ],
-    "PH5": [
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If a business owner ever got told no by a Chinese supplier on card, hear this.", "recommended": false},
-      {"category": "Educational Hooks", "template": "When you get (insert item/result), here are the # things you got to do right away.", "text": "When the supplier rejects the card, here are the 3 things happening at once.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why pushing a card on a 12K order costs the supplier 360 in margin.", "recommended": false},
-      {"category": "Storytelling Hooks", "template": "When I (insert action), people said (insert feedback).", "text": "When business owners offer the card, suppliers hear: less money, more risk.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here are some slightly unethical (insert industry/niche) hacks that you should know if you're (insert target audience).", "text": "3 things every business owner paying China needs to know about the card.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (topic).", "text": "Here's what every business owner needs to know about why the card gets rejected in China.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Have you ever tried to pay a Chinese supplier with a credit card and got told no? There are three things happening at once on their side, and once you see them, the whole picture makes sense.", "recommended": false}
-    ],
-    "PG1": [
-      {"category": "Myth-Busting Hooks", "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).", "text": "More business owners sourcing from China need to hear this about the card.", "recommended": false},
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If a business owner sources from China and keeps hitting the card wall, watch this.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why the business owner keeps getting frustrated by supplier card rejection.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says use a card, nobody explains why the category never existed there.", "recommended": false},
-      {"category": "Storytelling Hooks", "template": "After X years of (insert action) I realized one thing: (insert statement).", "text": "After years of pushing the card, business owners realize: it was never going to fit.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (topic).", "text": "Here's what every China importer needs to know about why suppliers say no to cards.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's something for every small business owner who buys from China. You offered your supplier a credit card. They said no. You got frustrated. You shouldn't be. Let me explain what's really going on.", "recommended": false}
-    ],
-    "PG2": [
-      {"category": "Myth-Busting Hooks", "template": "Let me de-influence you from (insert action).", "text": "Let me de-influence the business owner from paying Chinese suppliers by card.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "They said, \"(insert famous cliché or quote)\" — that's a lie.", "text": "They said the credit card is the universal payment tool. For factory orders, that's a lie.", "recommended": false},
-      {"category": "Educational Hooks", "template": "This is what (insert thing) looks like when you're (insert action). And this is what they look like when you're not (insert action).", "text": "This is what a card looks like to a buyer, and what it looks like to a factory.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why pushing a card on a Chinese supplier just costs them margin and risk.", "recommended": false},
-      {"category": "Random Hooks", "template": "I do not believe in (insert common belief), I believe in (insert your belief).", "text": "Nobody should believe the card is the right tool for factory orders.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: (topic), explained simply.", "text": "In this video: why the credit card fails for cross-border supplier payments, explained simply.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's a hot take nobody wants to say out loud. The credit card is the most overrated tool for paying suppliers across borders. Picture it. You offered Visa. Your supplier asked for a bank transfer. You blamed them. They weren't the problem.", "recommended": false}
-    ],
-    "PG3": [
-      {"category": "Myth-Busting Hooks", "template": "Stop using (insert item) for (insert result).", "text": "Stop using a credit card for paying Chinese suppliers. It's the wrong tool.", "recommended": false},
-      {"category": "Educational Hooks", "template": "This is what (insert thing) looks like when you're (insert action). And this is what they look like when you're not (insert action).", "text": "This is what a 10K PO looks like to the buyer, and what it looks like to the factory.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly how much margin and risk a 2.95% card fee costs the supplier.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "It's time to throw away your (insert item), you don't need it anymore.", "text": "It's time to put away the card on the factory floor. It's not built for it.", "recommended": false},
-      {"category": "Educational Hooks", "template": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue), then listen to this video.", "text": "If a business owner is paying 10K POs by card, use the right tool for the job.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (topic).", "text": "Here's what every business owner needs to know about using the right tool for factory payments.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Picture two jobs. Hanging a picture on the wall. Building a house. Both need tools, but you'd never use a tiny hammer to build a house. That's what's happening when you pay a Chinese factory with a credit card.", "recommended": false}
-    ],
-    "PG4": [
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone says pay by card, nobody tells the business owner what it was built for.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "Cards built for coffee shops and hotel rooms, factory POs run a totally different timeline.", "recommended": false},
-      {"category": "Educational Hooks", "template": "This represents your X before, during, and after X", "text": "This is a factory order before, during, and after the 180-day chargeback window.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "This is why doing (insert action) makes you (insert pain point).", "text": "This is why forcing a retail tool on a wholesale workflow keeps blowing up.", "recommended": false},
-      {"category": "Educational Hooks", "template": "It took me 10 years to learn this but I'll teach it to you in less than 1 minute.", "text": "Most business owners take years to see this. Cards were never meant for factories.", "recommended": false},
-      {"category": "Clarity", "template": "In this video: (topic), explained simply.", "text": "In this video: why the card was built for retail, not factory orders, explained simply.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Nobody tells you this about credit cards. They were built for coffee shops and hotel rooms. Not for a factory order that takes three months to make and another month to ship across the ocean. Here's what that means for your supplier.", "recommended": false}
-    ],
     "PG5": [
-      {"category": "Educational Hooks", "template": "This is what (insert thing) looks like when you're (insert action). And this is what they look like when you're not (insert action).", "text": "This is what a card looks like to the buyer. This is what it looks like to the supplier.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).", "text": "More business owners need to hear this. The card isn't bad, it's just not for this.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Here's exactly how much (insert action/item) you need to (insert result)", "text": "Here's exactly who pays the 2.95% card fee, and it isn't the business owner.", "recommended": false},
-      {"category": "Myth-Busting Hooks", "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).", "text": "The buyer sees a payment method, the supplier sees 180 days of liability.", "recommended": false},
-      {"category": "Educational Hooks", "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.", "text": "Everyone talks about card fees, nobody explains who actually pays them.", "recommended": false},
-      {"category": "Clarity", "template": "Here's what every (audience) needs to know about (topic).", "text": "Here's what every business owner needs to know about who really pays the card fee on China orders.", "recommended": true},
-      {"category": "Ultra Clarity", "template": "ultra-clarity story-mode opener", "text": "Here's the thing nobody tells you. You're looking at the credit card like a way to pay. Your supplier is looking at it like a risk to their family business. Let me show you both sides at the same time.", "recommended": false}
+      {
+        "category": "Educational Hooks",
+        "template": "This is what (insert thing) looks like when you're (insert action). And this is what they look like when you're not (insert action).",
+        "text": "This is what a card looks like to the buyer. This is what it looks like to the supplier.",
+        "recommended": false
+      },
+      {
+        "category": "Myth-Busting Hooks",
+        "template": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).",
+        "text": "More business owners need to hear this. The card isn't bad, it's just not for this.",
+        "recommended": false
+      },
+      {
+        "category": "Educational Hooks",
+        "template": "Here's exactly how much (insert action/item) you need to (insert result)",
+        "text": "Here's exactly who pays the 2.95% card fee, and it isn't the business owner.",
+        "recommended": false
+      },
+      {
+        "category": "Myth-Busting Hooks",
+        "template": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).",
+        "text": "The buyer sees a payment method, the supplier sees 180 days of liability.",
+        "recommended": false
+      },
+      {
+        "category": "Educational Hooks",
+        "template": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a #-second step-by-step tutorial that you can save.",
+        "text": "Everyone talks about card fees, nobody explains who actually pays them.",
+        "recommended": false
+      },
+      {
+        "category": "Clarity",
+        "template": "Here's what every (audience) needs to know about (topic).",
+        "text": "Here's what every business owner needs to know about who really pays the card fee on China orders.",
+        "recommended": true
+      },
+      {
+        "category": "Ultra Clarity",
+        "template": "ultra-clarity story-mode opener",
+        "text": "Here's the thing nobody tells you. You're looking at the credit card like a way to pay. Your supplier is looking at it like a risk to their family business. Let me show you both sides at the same time.",
+        "recommended": false
+      }
     ]
   }
 }
