@@ -1,0 +1,262 @@
+{
+  "PH1": {
+    "red_flag": "Medium",
+    "analysis": "Core mechanism (FX margin baked into rate, intermediary fees, supplier delays) is real and defensible, but '2.5%' is presented as universal when it's a typical-case figure that varies by bank and currency pair. The 'supplier won't start production' beat is a real but situational scenario, framed as inevitable. 'Supplier gets the full amount' on WF side is also a slight overreach because receiving bank fees on the CN side can still apply.",
+    "skeptic_comments": [
+      {
+        "text": "Where this 2.5% come from? My Maybank not so high lah.",
+        "severity": "high"
+      },
+      {
+        "text": "My supplier never refuse production over small short amount. We just top up next week.",
+        "severity": "high"
+      },
+      {
+        "text": "Who is WorldFirst? Never hear before. Got license or not?",
+        "severity": "high"
+      },
+      {
+        "text": "Sound like ad. Show me real rate comparison la, not just numbers.",
+        "severity": "high"
+      },
+      {
+        "text": "Same day to China? My bank also say same day. What's different?",
+        "severity": "mid"
+      }
+    ]
+  },
+  "PH2": {
+    "red_flag": "High",
+    "analysis": "The compounding math (144K over 5 years) is the highest-risk claim in the set. It assumes the 2.5% margin holds constant on every wire, twice a month, for 60 months, which is an extrapolation no SMB will accept at face value. 'Your kid's college fund' is emotive framing on top of an unverifiable extrapolation. 'Every wire. Every month. Every year.' is an absolute that a skeptic will pick apart.",
+    "skeptic_comments": [
+      {
+        "text": "144K over 5 years? Bro you assume my bank never give better rate, never negotiate.",
+        "severity": "high"
+      },
+      {
+        "text": "I don't wire 50K twice a month every month for 5 years lah. Numbers feel cooked.",
+        "severity": "high"
+      },
+      {
+        "text": "Kid college fund? Cmon now you trying too hard.",
+        "severity": "high"
+      },
+      {
+        "text": "Where the 2.5% from? Show me actual rate vs mid-market please.",
+        "severity": "high"
+      },
+      {
+        "text": "Sounds like ad. Got testimonial from real SME or just math?",
+        "severity": "mid"
+      }
+    ]
+  },
+  "PH3": {
+    "red_flag": "High",
+    "analysis": "'Pocketed' is softer than 'stole' but still implies wrongdoing or theft, which a skeptic with banking knowledge will challenge because FX margins are disclosed in T&Cs even if buried. 'Banks have been doing this for decades' is sweeping. 'Send 50K, supplier gets 50K' on WF side overstates because correspondent/CN receiving bank fees can still trim small amounts. 'Business owners don't read the rate' is also a slight insult that could put audience on defensive.",
+    "skeptic_comments": [
+      {
+        "text": "Pocketed? They disclose in fine print what. Not theft if I sign.",
+        "severity": "high"
+      },
+      {
+        "text": "Send 50K supplier get exactly 50K? Sure or not? CN bank also sometimes charge.",
+        "severity": "high"
+      },
+      {
+        "text": "You call me stupid for not reading the rate? Ok thanks for the ad.",
+        "severity": "high"
+      },
+      {
+        "text": "Got proof on the 2.5%? My bank charge me less.",
+        "severity": "high"
+      },
+      {
+        "text": "Banks doing this for decades but WorldFirst only how many years old?",
+        "severity": "high"
+      }
+    ]
+  },
+  "PH4": {
+    "red_flag": "Medium",
+    "analysis": "Cleanest of the Hormozi set. Mechanism explanation is technically accurate (FX spread vs wire fee distinction is real and underappreciated). 'Banks make billions' is generic enough to be defensible. Main risk is still the universal 2.5% figure presented without 'up to' or 'typically' qualifier, and 'full amount lands same-day' is a slight overstatement that ignores CN-side processing. Most skeptics will accept the core teaching though.",
+    "skeptic_comments": [
+      {
+        "text": "Ok the fee vs rate thing actually make sense. But 2.5% always?",
+        "severity": "mid"
+      },
+      {
+        "text": "My bank rate not that bad lah. Maybe US bank different.",
+        "severity": "mid"
+      },
+      {
+        "text": "Full amount same day? CN bank also got their own charges sometimes.",
+        "severity": "mid"
+      },
+      {
+        "text": "Banks make billions, fine. But how WorldFirst make money then? Free?",
+        "severity": "high"
+      },
+      {
+        "text": "Who regulate WorldFirst in Malaysia?",
+        "severity": "high"
+      }
+    ]
+  },
+  "PH5": {
+    "red_flag": "Medium",
+    "analysis": "The three-things-stack format is clean and educational. The 200-300 intermediary fee range is more honest than a single number. Main red flag is the cascade of consequences (lost week, lost order, lost reputation with that supplier) which feels stacked for drama. Most SMBs won't lose a supplier relationship over one short payment, they'll just top up. 'Supplier gets 50K' on WF side has the same slight overreach issue.",
+    "skeptic_comments": [
+      {
+        "text": "Lost reputation with supplier over one short wire? Bit dramatic.",
+        "severity": "mid"
+      },
+      {
+        "text": "Where the 2.5% number from? My HLB not so bad.",
+        "severity": "high"
+      },
+      {
+        "text": "Intermediary 200-300 ok that's fair. But still want to see real screenshot.",
+        "severity": "low"
+      },
+      {
+        "text": "Production starts today? Even if money lands, supplier still got their schedule.",
+        "severity": "mid"
+      },
+      {
+        "text": "Worth a look ok but who is WorldFirst leh. Ant Group? Trust them or not?",
+        "severity": "high"
+      }
+    ]
+  },
+  "PG1": {
+    "red_flag": "Medium",
+    "analysis": "Same core math as Hormozi set (2.5% margin, $1,200, supplier delay) so inherits same defensibility profile. The softer 'worth knowing' close reduces red flag vs harder Hormozi versions. Main risk is still 2.5% presented without qualifier and the supplier-won't-start framing as universal. 'No mystery fees' on WF side is a marketing claim that a skeptic could test.",
+    "skeptic_comments": [
+      {
+        "text": "Why my bank rate not 2.5%? Got source for this number?",
+        "severity": "high"
+      },
+      {
+        "text": "Sound like ad. Show me real example with screenshot.",
+        "severity": "high"
+      },
+      {
+        "text": "My supplier wait for full amount lah, true. But one week loss? Maybe one day.",
+        "severity": "mid"
+      },
+      {
+        "text": "Who is WorldFirst? First time hearing.",
+        "severity": "high"
+      },
+      {
+        "text": "No mystery fees, sure or not? Got monthly subscription? Min top up?",
+        "severity": "mid"
+      }
+    ]
+  },
+  "PG2": {
+    "red_flag": "Medium",
+    "analysis": "'Your bank is the most expensive part of your supply chain' is a bold opinion claim, but framed as opinion ('nobody talks about it') rather than fact, which is defensible Gary Vee voice. Math is cleaner here (10 payments = 20K, 50 payments = 100K) and more honest than the 5-year compound. Still relies on the universal 2.5% figure. 'You'll never see it on a statement' is largely true and defensible.",
+    "skeptic_comments": [
+      {
+        "text": "Most expensive part of supply chain? Shipping cost me way more lah.",
+        "severity": "mid"
+      },
+      {
+        "text": "50 wires a year for one SME? That's big company already.",
+        "severity": "high"
+      },
+      {
+        "text": "2.5% always? My CIMB rate not so bad.",
+        "severity": "high"
+      },
+      {
+        "text": "Where WorldFirst money come from then? They give better rate for free?",
+        "severity": "mid"
+      },
+      {
+        "text": "Show real rate comparison please, not just say.",
+        "severity": "mid"
+      }
+    ]
+  },
+  "PG3": {
+    "red_flag": "Medium",
+    "analysis": "The hammer/wood metaphor is defensible framing. Combining the 1,200 FX margin AND 800 intermediary fees adds up to 2K total = exactly $48K supplier received, which is internally consistent. Main red flag is the 800 intermediary figure is plausible but presented as universal when intermediary bank fees vary widely. 'Won't start production' framed as inevitable. 'Supplier starts that day' on WF side is a confident claim.",
+    "skeptic_comments": [
+      {
+        "text": "800 intermediary fee on a 50K wire? That's high. Mine more like 30 to 50 USD.",
+        "severity": "high"
+      },
+      {
+        "text": "Hammer wood analogy ok but show me the actual product first.",
+        "severity": "mid"
+      },
+      {
+        "text": "Supplier starts day money lands? Supplier got their own queue too.",
+        "severity": "mid"
+      },
+      {
+        "text": "Where WorldFirst regulated? PayNet? BNM? Or some offshore thing?",
+        "severity": "high"
+      },
+      {
+        "text": "Sound nice but I trust bank more lah. Got branch, got person to call.",
+        "severity": "mid"
+      }
+    ]
+  },
+  "PG4": {
+    "red_flag": "Medium",
+    "analysis": "'Truth nobody's telling you' was softened to 'something nobody's telling you' which lowers the conspiratorial tone, good. 'This is how it works. Every single time.' is an absolute that a skeptic with one positive bank experience can disprove. The fee vs rate teaching is genuine and useful. 'The rate you see is the rate you get' is a clean WF claim but a skeptic will want to see proof.",
+    "skeptic_comments": [
+      {
+        "text": "Every single time? I send last month and supplier got within 50 USD of quoted.",
+        "severity": "high"
+      },
+      {
+        "text": "Bank don't make money on wire fee, make money on rate. Ok this part true actually.",
+        "severity": "low"
+      },
+      {
+        "text": "2.5% worse than real rate, where you get this? Bloomberg?",
+        "severity": "high"
+      },
+      {
+        "text": "Rate you see is rate you get, prove it la. Show live quote.",
+        "severity": "mid"
+      },
+      {
+        "text": "Who is WorldFirst? Need to research first.",
+        "severity": "mid"
+      }
+    ]
+  },
+  "PG5": {
+    "red_flag": "Low",
+    "analysis": "Cleanest script in the set. The 'call the bank, they blame intermediary, intermediary blames receiving' beat is a real and well-known pain point that any importer who's been stuck on that call will immediately recognize as true. Soft on specific numbers (no 2.5%, no 1,200, no compound math). 'Your margin is bleeding' is metaphor not claim. 'This happens every week. Every single week.' is the only overreach. Most defensible script.",
+    "skeptic_comments": [
+      {
+        "text": "Ya the blame game is real. Bank, intermediary, receiving all pointing finger.",
+        "severity": "low"
+      },
+      {
+        "text": "Every week? Bit much. Maybe every few months.",
+        "severity": "mid"
+      },
+      {
+        "text": "Supplier starts and I sleep, nice line but show me how WorldFirst do it lah.",
+        "severity": "mid"
+      },
+      {
+        "text": "Who is WorldFirst? Got Malaysia license?",
+        "severity": "high"
+      },
+      {
+        "text": "Ok this one feel less ad than others. Still want proof.",
+        "severity": "low"
+      }
+    ]
+  }
+}

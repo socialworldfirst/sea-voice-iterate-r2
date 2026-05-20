@@ -1,0 +1,359 @@
+{
+  "angle_id": "P2-A3-1",
+  "title": "I sent $50K. My supplier got $48,500. Here is why.",
+  "card_id": "P2-A3",
+  "hormozi": {
+    "skill": "Alex Hormozi PAS",
+    "scripts": [
+      {
+        "id": "PH1",
+        "subtitle": "Classic PAS opener",
+        "original_vo": "Listen. If you're a business owner wiring money to Chinese suppliers, your bank is robbing you. Here's the math. You send 50K. Your supplier gets 48K. Where did the 2K go? Your bank took a 2.5% exchange rate margin. That's 1,200 dollars gone before intermediary fees even hit. So now your supplier won't start production. You lose a week. You lose your delivery window. You lose the next order. Stop. This is not a fee problem. This is a hidden margin problem. Banks bury it in the rate so you never see it. WorldFirst gives you near-interbank rates. The actual rate banks use with each other. Same 50K. Supplier gets the full amount. Same-day to Chinese accounts. If you're paying suppliers in China and you're still using a bank, you're lighting money on fire. Period. Search WorldFirst. Period.",
+        "iterated_vo": "If you're a business owner wiring money to Chinese suppliers, your bank is quietly taking from you. Here's the math. You send 50K. Your supplier gets 48K. Where did the 2K go? Your bank took a 2.5% exchange rate margin. That's 1,200 dollars gone before intermediary fees even hit. So now your supplier won't start production. You lose a week. You lose your delivery window. You lose the next order. This is not a fee problem. This is a hidden margin problem. Banks bury it in the rate so you never see it. WorldFirst gives you near-interbank rates. The actual rate banks use with each other. Same 50K. Supplier gets the full amount. Same-day to Chinese accounts. If you're paying suppliers in China and you're still using a bank, you're lighting money on fire. Worth a look. Search WorldFirst.",
+        "iterated_vo_clarity": "Let us walk through what happens when you pay a supplier in China. Say you are a small business owner. You buy from a factory in Guangzhou. You wire 50,000 dollars from your bank. A few days later your supplier calls. They say the money came in, but it is only 48,000 dollars. You think there was a mistake. There was no mistake. Here is what happened. Your bank changed your US dollars into Chinese yuan. But they did not use the real exchange rate. They used a worse one. The gap between the real rate and their rate was about 2.5 percent. On 50,000 dollars, that gap is 1,200 dollars. Your bank kept it. You never saw it on your statement, because it was hidden inside the rate itself. Then other banks in the middle of the wire took small fees too. By the time the money reached your supplier, it was short. Now your supplier will not start making your product. They want the full amount first. So you lose a week. You lose your shipping date. You lose the next order. We at WorldFirst built a different way. We use the near-interbank rate. That is the same rate banks use when they trade with each other. The full amount lands in your supplier's Chinese bank account, same day. If you pay suppliers in China and you still use a regular bank, this is worth a look. Search WorldFirst."
+      },
+      {
+        "id": "PH2",
+        "subtitle": "Cold open + compounding math",
+        "original_vo": "Watch this. You wire 50K to your Chinese supplier. They receive 48K. You just lost 1,200 dollars and you didn't even feel it. Now do that twice a month. That's 2,400 a month. 28,800 a year. Over five years, your bank quietly took 144,000 dollars from your business. That's a salary. That's a warehouse. That's your kid's college fund. And it's not a fee. It's the exchange rate margin. 2.5% buried in the rate so you never see the line item. Plus intermediary fees. Plus the week of delay because your supplier won't start production until the full amount lands. Listen. WorldFirst sends the same 50K at near-interbank rates. Same-day to Chinese accounts. The full amount lands. Supplier starts production. You keep the 1,200. Every wire. Every month. Every year. Search WorldFirst. Period.",
+        "iterated_vo": "Watch this. You wire 50K to your Chinese supplier. They receive 48K. You just lost 1,200 dollars and you didn't even feel it. Now do that twice a month. That's 2,400 a month. 28,800 a year. Over five years, your bank quietly took 144,000 dollars from your business. That's a salary. That's a warehouse. That's your kid's college fund. And it's not a fee. It's the exchange rate margin. 2.5% buried in the rate so you never see the line item. Plus intermediary fees. Plus the week of delay because your supplier won't start production until the full amount lands. WorldFirst sends the same 50K at near-interbank rates. Same-day to Chinese accounts. The full amount lands. Supplier starts production. You keep the 1,200. Every wire. Every month. Every year. Search WorldFirst.",
+        "iterated_vo_clarity": "Picture this. You run a small import business. Twice a month, you wire money to your factory in China. Today you send 50,000 dollars. Your supplier gets 48,000. You shrug. You think it is just the cost of doing business. But let us do the math together. Every wire, your bank quietly keeps about 1,200 dollars. That is the gap between the real exchange rate and the rate they gave you. Twice a month, that is 2,400 dollars. Over a year, that is around 28,800 dollars. Over five years, your bank can quietly take more than 100,000 dollars from your business. That is real money. That is a new hire. That is a bigger warehouse. That is school fees. And here is the part that hurts. It is not even a fee you can see. It is buried inside the exchange rate. There is no line item on your statement. Then small fees from middle banks chip away even more. And your supplier will not start making your product until the full amount arrives, so you lose a week too. We built WorldFirst because we saw this happening to importers like you. We give you the near-interbank rate, which is the same rate banks use with each other. The full amount lands in your supplier's Chinese bank, same day. Production starts. The savings stay with you. Search WorldFirst."
+      },
+      {
+        "id": "PH3",
+        "subtitle": "Accusation opener",
+        "original_vo": "Your bank stole 1,200 dollars from you on your last wire to China and you signed off on it. Here's how. You sent 50K. Supplier got 48K. You assumed the 2K was a fee. It wasn't. It was a 2.5% margin your bank packed into the exchange rate. No line item. No receipt. No refund. Then intermediary banks took another bite. Then your supplier sat on their hands for a week because the amount was short and they refused to start production. You missed your delivery window. You ate the loss. I'll say it. Banks have been doing this for decades because business owners don't read the rate. WorldFirst is different. Near-interbank rates. Same rate the banks use with each other. Same-day to Chinese accounts. Send 50K, supplier gets 50K. Stop signing off on theft. Search WorldFirst. Period.",
+        "iterated_vo": "Your bank pocketed 1,200 dollars from you on your last wire to China and you signed off on it. Here's how. You sent 50K. Supplier got 48K. You assumed the 2K was a fee. It wasn't. It was a 2.5% margin your bank packed into the exchange rate. No line item. No receipt. No refund. Then intermediary banks took another bite. Then your supplier sat on their hands for a week because the amount was short and they refused to start production. You missed your delivery window. You ate the loss. Banks have been doing this for decades because business owners don't read the rate. WorldFirst is different. Near-interbank rates. Same rate the banks use with each other. Same-day to Chinese accounts. Send 50K, supplier gets 50K. Search WorldFirst.",
+        "iterated_vo_clarity": "Think back to your last wire to a supplier in China. Maybe you sent 50,000 dollars. Your supplier got 48,000. You probably thought the 2,000 dollar gap was a normal fee. It was not. Here is the real story. Your bank converted your dollars into Chinese yuan. They quoted you a rate that was about 2.5 percent worse than the real rate. So they kept around 1,200 dollars from your money. Right there. Quietly. You never saw it on your statement. There is no line item. There is no receipt. There is no refund. Then smaller fees from the banks in the middle of the wire chipped away even more. Your supplier saw less money than agreed. They waited. They did not start making your product until the full amount arrived. You missed your delivery date. You ate the cost. Banks have done this for decades, because most business owners do not read the rate. They only read the fee. We built WorldFirst to fix that. We give you the near-interbank rate, the same rate banks use with each other. The money lands in your supplier's Chinese bank same day. Send 50K, your supplier gets the full amount. Search WorldFirst."
+      },
+      {
+        "id": "PH4",
+        "subtitle": "Mechanism-first reveal",
+        "original_vo": "Here's the problem most business owners don't realize when they pay Chinese suppliers. The fee is not the fee. You see a 25 dollar wire fee on the bank statement. You think that's the cost. Wrong. The real cost is the exchange rate margin. Your bank doesn't give you the actual USD to CNY rate. They mark it up 2.5%. On a 50K wire, that's 1,200 dollars taken silently. You'll never see it on a statement because it's baked into the rate itself. Then intermediary banks shave another slice. Supplier receives 48K, refuses to start production, you eat a week of delay. This is how banks make billions off business owners who think they're getting a fair deal. Stop. WorldFirst uses near-interbank rates. The rate banks use with each other. Same 50K. Full amount lands same-day in China. Period. Search WorldFirst. Period.",
+        "iterated_vo": "Here's the problem most business owners don't realize when they pay Chinese suppliers. The fee is not the fee. You see a 25 dollar wire fee on the bank statement. You think that's the cost. Wrong. The real cost is the exchange rate margin. Your bank doesn't give you the actual USD to CNY rate. They mark it up 2.5%. On a 50K wire, that's 1,200 dollars taken silently. You'll never see it on a statement because it's baked into the rate itself. Then intermediary banks shave another slice. Supplier receives 48K, refuses to start production, you eat a week of delay. This is how banks make billions off business owners who think they're getting a fair deal. WorldFirst uses near-interbank rates. The rate banks use with each other. Same 50K. Full amount lands same-day in China. Search WorldFirst.",
+        "iterated_vo_clarity": "Here is something most business owners miss when they pay suppliers in China. The fee is not the real cost. Let us walk through it. You log into your bank. You set up a wire to your factory in Guangzhou. The bank shows you a wire fee. Maybe 25 dollars. You think, okay, 25 dollars is the cost. That is wrong. The real cost is hidden in the exchange rate. Your bank has to change your US dollars into Chinese yuan. They do not give you the true rate. They give you a rate that is about 2.5 percent worse. On a 50,000 dollar wire, that is 1,200 dollars they keep. Quietly. Not as a fee. Not on a statement. Just baked into the rate. Then other banks in the middle of the wire take small slices too. By the time the money lands, your supplier has 48,000 dollars, not 50,000. They will not start making your goods. You wait a week. This is how banks make billions of dollars off small importers who only watch the fee. We built WorldFirst to flip that around. We give you the near-interbank rate, the rate banks use with each other. The full 50K lands in your supplier's Chinese bank, same day. Search WorldFirst."
+      },
+      {
+        "id": "PH5",
+        "subtitle": "Direct address + problem stack",
+        "original_vo": "If you wire money to China, you need to hear this. Real talk. Last time you sent 50K to a supplier, three things happened and you only saw one of them. One. Your bank charged you a wire fee. You saw that. Two. Your bank marked up the exchange rate 2.5% and pocketed 1,200 dollars silently. You didn't see that. Three. Intermediary banks chipped away another 200 or 300 bucks. You didn't see that either. Supplier received 48K instead of 50K. Refused to start production. You lost a week. You lost the order. You lost your reputation with that supplier. Stop wiring through banks for China payments. WorldFirst gives you near-interbank rates. The actual rate. Same-day delivery to Chinese accounts. Send 50K, supplier gets 50K, production starts today. If you're a business owner paying China, you need WorldFirst. Period. Search WorldFirst. Period.",
+        "iterated_vo": "If you wire money to China, you need to hear this. Last time you sent 50K to a supplier, three things happened and you only saw one of them. One. Your bank charged you a wire fee. You saw that. Two. Your bank marked up the exchange rate 2.5% and pocketed 1,200 dollars silently. You didn't see that. Three. Intermediary banks chipped away another 200 or 300 bucks. You didn't see that either. Supplier received 48K instead of 50K. Refused to start production. You lost a week. You lost the order. You lost your reputation with that supplier. WorldFirst gives you near-interbank rates. The actual rate. Same-day delivery to Chinese accounts. Send 50K, supplier gets 50K, production starts today. If you're a business owner paying China, WorldFirst is worth a look. Search WorldFirst.",
+        "iterated_vo_clarity": "If you wire money to China, this matters to you. Let us walk through your last 50K wire to a supplier. Three things happened. You only saw one. First, your bank charged a wire fee. Maybe 25 dollars. You saw that on your statement. Second, your bank changed your US dollars into Chinese yuan. They used a rate that was about 2.5 percent worse than the real rate. That is around 1,200 dollars they kept. You did not see that, because it was hidden inside the exchange rate. There was no line item. Third, the banks in the middle of the wire took small fees too. Around 200 or 300 dollars more. You did not see that either. By the end, your supplier got 48,000 dollars instead of 50,000. They did not start making your product. You lost a week. You lost the shipping date. You lost trust with that supplier. We built WorldFirst to take all three hits away. We give you the near-interbank rate, the real one. The money lands in your supplier's Chinese bank same day. Send 50K, your supplier gets 50K. Production starts that day. If you pay suppliers in China, this is worth a look. Search WorldFirst."
+      }
+    ]
+  },
+  "garyvee": {
+    "skill": "Gary Vee Opinion-led",
+    "scripts": [
+      {
+        "id": "PG1",
+        "subtitle": "Classic Stop / Real-talk opener",
+        "original_vo": "Stop. Real talk for every business owner paying Chinese suppliers. You send $50,000 to your factory. Your supplier gets $48,000. Where did $2,000 go? Your bank's hidden exchange rate margin ate $1,200. Intermediary fees took the rest. And here's the kicker. Your supplier won't start production until they see the full amount. So now you're losing a week. Maybe two. While you're scrambling to wire the difference. Listen. WorldFirst sends the same $50,000 at near-interbank rate. That's the actual rate banks use with each other. Same day to Chinese bank accounts. No mystery fees. No supplier holding your order hostage. Stop letting your bank rob you on every payment. Search WorldFirst. Now.",
+        "iterated_vo": "For every business owner paying Chinese suppliers. You send $50,000 to your factory. Your supplier gets $48,000. Where did $2,000 go? Your bank's hidden exchange rate margin took $1,200. Intermediary fees took the rest. And here's the part most people miss. Your supplier won't start production until they see the full amount. So now you're losing a week. Maybe two. While you're scrambling to wire the difference. WorldFirst sends the same $50,000 at near-interbank rate. That's the actual rate banks use with each other. Same day to Chinese bank accounts. No mystery fees. No supplier holding your order. Worth knowing if your bank is quietly taking from you on every payment. Search WorldFirst.",
+        "iterated_vo_clarity": "This one is for every business owner paying suppliers in China. Picture your last big wire. You sent 50,000 dollars to your factory. A few days later, the supplier calls. They got 48,000. You ask, where did 2,000 dollars go? Here is the answer. Your bank quietly used a worse exchange rate than the real one. That gap was about 1,200 dollars. Then the banks in the middle of the wire took the rest in small fees. Now here is the part most people miss. Your supplier will not start making your product until the full amount lands. So now you are losing a week. Maybe two. You are on the phone scrambling to wire the difference. You are missing shipping dates. You are pushing back the next order. We built WorldFirst for this exact moment. We send the same 50K at the near-interbank rate, the rate banks use with each other. The money lands in your supplier's Chinese bank same day. No surprise gaps. No supplier waiting on a top-up. If your bank is quietly taking from you on every payment, this is worth knowing. Search WorldFirst."
+      },
+      {
+        "id": "PG2",
+        "subtitle": "I'll say it opinion-as-truth + compound math",
+        "original_vo": "I'll say it. Your bank is the most expensive part of your supply chain and nobody talks about it. You wire $50,000 to your Chinese supplier. They get $48,000. That's $2,000 gone. On one payment. Now run the math. Ten payments a year. That's $20,000. Fifty payments. That's $100,000. That's a hire. That's inventory. That's your margin. And here's what your bank won't tell you. That 2.5% exchange rate margin is hidden in the rate. You'll never see it on a statement. WorldFirst uses near-interbank rate. Same-day to Chinese accounts. The difference goes back into your business. Where it belongs. Period.",
+        "iterated_vo": "Your bank is the most expensive part of your supply chain and nobody talks about it. You wire $50,000 to your Chinese supplier. They get $48,000. That's $2,000 gone. On one payment. Now run the math. Ten payments a year. That's $20,000. Fifty payments. That's $100,000. That's a hire. That's inventory. That's your margin. And here's what your bank won't tell you. That 2.5% exchange rate margin is hidden in the rate. You'll never see it on a statement. WorldFirst uses near-interbank rate. Same-day to Chinese accounts. The difference goes back into your business. Where it belongs.",
+        "iterated_vo_clarity": "Here is something nobody talks about in your supply chain. Your bank might be the most expensive part of it. Let us walk through why. You wire 50,000 dollars to your Chinese supplier. They get 48,000. That is 2,000 dollars gone on one payment. Now picture this over a year. Ten payments a year, that is 20,000 dollars. Fifty payments a year, that is 100,000 dollars. That is a real number. That is a new hire. That is your next stock order. That is your margin. And here is what your bank will not tell you. The biggest piece is not a fee. It is a hidden mark-up on the exchange rate, about 2.5 percent. You will never spot it on your statement, because it is baked into the rate itself. We built WorldFirst to give that money back to you. We use the near-interbank rate, the same rate banks use with each other. The money lands in your supplier's Chinese bank same day. The difference goes back into your business, where it belongs."
+      },
+      {
+        "id": "PG3",
+        "subtitle": "Stop using your bank / right-tool reframe",
+        "original_vo": "Stop using your bank to pay Chinese suppliers. I'm serious. Your bank is a tool. It's the wrong tool. You wouldn't use a hammer to cut wood. So why are you using a domestic bank to send international supplier payments? Here's what happens. You send $50,000. Hidden 2.5% margin. That's $1,200. Plus intermediary fees, another $800. Supplier gets $48,000. Refuses to start production. You lose a week. WorldFirst is built for this. Near-interbank rate. Same-day to Chinese bank accounts. Full $50,000 lands. Supplier starts that day. Use the right tool for the job. Your margin depends on it. Search WorldFirst. Now.",
+        "iterated_vo": "Your bank is not the right tool for paying Chinese suppliers. Your bank is a tool. It's the wrong tool. You wouldn't use a hammer to cut wood. So why are you using a domestic bank to send international supplier payments? Here's what happens. You send $50,000. Hidden 2.5% margin. That's $1,200. Plus intermediary fees, another $800. Supplier gets $48,000. Won't start production. You lose a week. WorldFirst is built for this. Near-interbank rate. Same-day to Chinese bank accounts. Full $50,000 lands. Supplier starts that day. Use the right tool for the job. Your margin depends on it. Search WorldFirst.",
+        "iterated_vo_clarity": "Think about it this way. Your bank is a tool. It is a great tool for some jobs. Paying a supplier in China is not one of them. You would not use a hammer to cut a piece of wood. So why use a local bank to send a big payment overseas? Here is what really happens when you do. You send 50,000 dollars. Your bank uses a worse exchange rate than the real one. The gap is about 2.5 percent, or 1,200 dollars. They keep that quietly. Then the banks in the middle of the wire take small fees too, often a few hundred dollars more. Your supplier ends up with 48,000 dollars. They will not start making your product until the full amount arrives. You lose a week. We built WorldFirst for this exact job. We give you the near-interbank rate, the same rate banks use with each other. The full 50K lands in your supplier's Chinese account same day. Your supplier starts production that day. The right tool for the job. Your margin depends on it. Search WorldFirst."
+      },
+      {
+        "id": "PG4",
+        "subtitle": "Truth nobody's telling you / conspiratorial",
+        "original_vo": "Here's the truth nobody's telling you about international wires. Your bank doesn't make money on the wire fee. They make money on the exchange rate. You send $50,000 to your Chinese supplier. The bank quotes you a rate that's 2.5% worse than the real one. That's $1,200 they pocket. Silently. Then intermediary banks take another $800 in fees that nobody warned you about. Supplier gets $48,000. Won't start production. You lose a week of lead time. This is how it works. Every single time. WorldFirst doesn't play this game. Near-interbank rate. Same-day to Chinese accounts. The rate you see is the rate you get. That's the difference. Period.",
+        "iterated_vo": "Here's something nobody's telling you about international wires. Your bank doesn't make money on the wire fee. They make money on the exchange rate. You send $50,000 to your Chinese supplier. The bank quotes you a rate that's 2.5% worse than the real one. That's $1,200 they pocket. Quietly. Then intermediary banks take another $800 in fees that nobody warned you about. Supplier gets $48,000. Won't start production. You lose a week of lead time. This is how it works. Every single time. WorldFirst is built differently. Near-interbank rate. Same-day to Chinese accounts. The rate you see is the rate you get. That's the difference.",
+        "iterated_vo_clarity": "Here is something nobody tells you about international wires. Your bank does not really make their money on the wire fee. They make their money on the exchange rate. Let us walk through it. You send 50,000 dollars to your Chinese supplier. The bank shows you a rate to change your dollars into yuan. The catch is, that rate is about 2.5 percent worse than the real one. So your bank quietly keeps about 1,200 dollars. You never see that on your statement, because it is hidden inside the rate itself. Then other banks that help move your money take their own small fees too, often a few hundred dollars more. By the time your supplier opens their account, they have 48,000 dollars, not 50,000. They will not start making your product. You lose a week of lead time. This pattern repeats almost every time. We built WorldFirst to work in a different way. We use the near-interbank rate, the real one. The money lands in your supplier's Chinese bank same day. The rate you see is the rate you get. That is the difference."
+      },
+      {
+        "id": "PG5",
+        "subtitle": "Real talk + escalating personal energy",
+        "original_vo": "Real talk for every business owner sourcing from China. You think your bank is helping you. They're not. You wire $50,000 to your supplier. They get $48,000. You call the bank. They blame the intermediary. The intermediary blames the receiving bank. Nobody takes responsibility. Meanwhile your supplier won't start production. You're losing days. Your customers are waiting. Your margin is bleeding. And you're on the phone with a teller who has no idea what you're talking about. I see this every week. Every single week. Stop. WorldFirst. Near-interbank rate. Same-day to Chinese accounts. Full $50,000 lands. Supplier starts. You sleep. Search WorldFirst. Now.",
+        "iterated_vo": "For every business owner sourcing from China. You think your bank is helping you. They're not. You wire $50,000 to your supplier. They get $48,000. You call the bank. They blame the intermediary. The intermediary blames the receiving bank. Nobody takes responsibility. Meanwhile your supplier won't start production. You're losing days. Your customers are waiting. Your margin is bleeding. And you're on the phone with a teller who has no idea what you're talking about. This happens every week. Every single week. WorldFirst. Near-interbank rate. Same-day to Chinese accounts. Full $50,000 lands. Supplier starts. You sleep. Search WorldFirst.",
+        "iterated_vo_clarity": "This one is for every business owner who sources from China. Picture this. You wire 50,000 dollars to your supplier. A few days later, they call. They only got 48,000. You think, no problem, I will sort it. You call your bank. They look at the wire. They say it must be the bank in the middle. You call that bank. They say it must be the receiving bank in China. The receiving bank says it must be the rate your bank used. Nobody takes the blame. Meanwhile, your supplier is sitting on their hands. They will not start production until the full amount arrives. Days go by. Your customers are emailing you about their order. Your margin is shrinking. And you are still on the phone with a bank teller who has no real answer. We see this story play out again and again. We built WorldFirst so you do not have to live it. We give you the near-interbank rate, the real one. The full 50,000 lands in your supplier's Chinese account same day. Your supplier starts production. You sleep. Search WorldFirst."
+      }
+    ]
+  },
+  "factcheck": {
+    "PH1": {
+      "red_flag": "Medium",
+      "analysis": "Core mechanism (FX margin baked into rate, intermediary fees, supplier delays) is real and defensible, but '2.5%' is presented as universal when it's a typical-case figure that varies by bank and currency pair. The 'supplier won't start production' beat is a real but situational scenario, framed as inevitable. 'Supplier gets the full amount' on WF side is also a slight overreach because receiving bank fees on the CN side can still apply.",
+      "skeptic_comments": [
+        {
+          "text": "Where this 2.5% come from? My Maybank not so high lah.",
+          "severity": "high"
+        },
+        {
+          "text": "My supplier never refuse production over small short amount. We just top up next week.",
+          "severity": "high"
+        },
+        {
+          "text": "Who is WorldFirst? Never hear before. Got license or not?",
+          "severity": "high"
+        },
+        {
+          "text": "Sound like ad. Show me real rate comparison la, not just numbers.",
+          "severity": "high"
+        },
+        {
+          "text": "Same day to China? My bank also say same day. What's different?",
+          "severity": "mid"
+        }
+      ]
+    },
+    "PH2": {
+      "red_flag": "High",
+      "analysis": "The compounding math (144K over 5 years) is the highest-risk claim in the set. It assumes the 2.5% margin holds constant on every wire, twice a month, for 60 months, which is an extrapolation no SMB will accept at face value. 'Your kid's college fund' is emotive framing on top of an unverifiable extrapolation. 'Every wire. Every month. Every year.' is an absolute that a skeptic will pick apart.",
+      "skeptic_comments": [
+        {
+          "text": "144K over 5 years? Bro you assume my bank never give better rate, never negotiate.",
+          "severity": "high"
+        },
+        {
+          "text": "I don't wire 50K twice a month every month for 5 years lah. Numbers feel cooked.",
+          "severity": "high"
+        },
+        {
+          "text": "Kid college fund? Cmon now you trying too hard.",
+          "severity": "high"
+        },
+        {
+          "text": "Where the 2.5% from? Show me actual rate vs mid-market please.",
+          "severity": "high"
+        },
+        {
+          "text": "Sounds like ad. Got testimonial from real SME or just math?",
+          "severity": "mid"
+        }
+      ]
+    },
+    "PH3": {
+      "red_flag": "High",
+      "analysis": "'Pocketed' is softer than 'stole' but still implies wrongdoing or theft, which a skeptic with banking knowledge will challenge because FX margins are disclosed in T&Cs even if buried. 'Banks have been doing this for decades' is sweeping. 'Send 50K, supplier gets 50K' on WF side overstates because correspondent/CN receiving bank fees can still trim small amounts. 'Business owners don't read the rate' is also a slight insult that could put audience on defensive.",
+      "skeptic_comments": [
+        {
+          "text": "Pocketed? They disclose in fine print what. Not theft if I sign.",
+          "severity": "high"
+        },
+        {
+          "text": "Send 50K supplier get exactly 50K? Sure or not? CN bank also sometimes charge.",
+          "severity": "high"
+        },
+        {
+          "text": "You call me stupid for not reading the rate? Ok thanks for the ad.",
+          "severity": "high"
+        },
+        {
+          "text": "Got proof on the 2.5%? My bank charge me less.",
+          "severity": "high"
+        },
+        {
+          "text": "Banks doing this for decades but WorldFirst only how many years old?",
+          "severity": "high"
+        }
+      ]
+    },
+    "PH4": {
+      "red_flag": "Medium",
+      "analysis": "Cleanest of the Hormozi set. Mechanism explanation is technically accurate (FX spread vs wire fee distinction is real and underappreciated). 'Banks make billions' is generic enough to be defensible. Main risk is still the universal 2.5% figure presented without 'up to' or 'typically' qualifier, and 'full amount lands same-day' is a slight overstatement that ignores CN-side processing. Most skeptics will accept the core teaching though.",
+      "skeptic_comments": [
+        {
+          "text": "Ok the fee vs rate thing actually make sense. But 2.5% always?",
+          "severity": "mid"
+        },
+        {
+          "text": "My bank rate not that bad lah. Maybe US bank different.",
+          "severity": "mid"
+        },
+        {
+          "text": "Full amount same day? CN bank also got their own charges sometimes.",
+          "severity": "mid"
+        },
+        {
+          "text": "Banks make billions, fine. But how WorldFirst make money then? Free?",
+          "severity": "high"
+        },
+        {
+          "text": "Who regulate WorldFirst in Malaysia?",
+          "severity": "high"
+        }
+      ]
+    },
+    "PH5": {
+      "red_flag": "Medium",
+      "analysis": "The three-things-stack format is clean and educational. The 200-300 intermediary fee range is more honest than a single number. Main red flag is the cascade of consequences (lost week, lost order, lost reputation with that supplier) which feels stacked for drama. Most SMBs won't lose a supplier relationship over one short payment, they'll just top up. 'Supplier gets 50K' on WF side has the same slight overreach issue.",
+      "skeptic_comments": [
+        {
+          "text": "Lost reputation with supplier over one short wire? Bit dramatic.",
+          "severity": "mid"
+        },
+        {
+          "text": "Where the 2.5% number from? My HLB not so bad.",
+          "severity": "high"
+        },
+        {
+          "text": "Intermediary 200-300 ok that's fair. But still want to see real screenshot.",
+          "severity": "low"
+        },
+        {
+          "text": "Production starts today? Even if money lands, supplier still got their schedule.",
+          "severity": "mid"
+        },
+        {
+          "text": "Worth a look ok but who is WorldFirst leh. Ant Group? Trust them or not?",
+          "severity": "high"
+        }
+      ]
+    },
+    "PG1": {
+      "red_flag": "Medium",
+      "analysis": "Same core math as Hormozi set (2.5% margin, $1,200, supplier delay) so inherits same defensibility profile. The softer 'worth knowing' close reduces red flag vs harder Hormozi versions. Main risk is still 2.5% presented without qualifier and the supplier-won't-start framing as universal. 'No mystery fees' on WF side is a marketing claim that a skeptic could test.",
+      "skeptic_comments": [
+        {
+          "text": "Why my bank rate not 2.5%? Got source for this number?",
+          "severity": "high"
+        },
+        {
+          "text": "Sound like ad. Show me real example with screenshot.",
+          "severity": "high"
+        },
+        {
+          "text": "My supplier wait for full amount lah, true. But one week loss? Maybe one day.",
+          "severity": "mid"
+        },
+        {
+          "text": "Who is WorldFirst? First time hearing.",
+          "severity": "high"
+        },
+        {
+          "text": "No mystery fees, sure or not? Got monthly subscription? Min top up?",
+          "severity": "mid"
+        }
+      ]
+    },
+    "PG2": {
+      "red_flag": "Medium",
+      "analysis": "'Your bank is the most expensive part of your supply chain' is a bold opinion claim, but framed as opinion ('nobody talks about it') rather than fact, which is defensible Gary Vee voice. Math is cleaner here (10 payments = 20K, 50 payments = 100K) and more honest than the 5-year compound. Still relies on the universal 2.5% figure. 'You'll never see it on a statement' is largely true and defensible.",
+      "skeptic_comments": [
+        {
+          "text": "Most expensive part of supply chain? Shipping cost me way more lah.",
+          "severity": "mid"
+        },
+        {
+          "text": "50 wires a year for one SME? That's big company already.",
+          "severity": "high"
+        },
+        {
+          "text": "2.5% always? My CIMB rate not so bad.",
+          "severity": "high"
+        },
+        {
+          "text": "Where WorldFirst money come from then? They give better rate for free?",
+          "severity": "mid"
+        },
+        {
+          "text": "Show real rate comparison please, not just say.",
+          "severity": "mid"
+        }
+      ]
+    },
+    "PG3": {
+      "red_flag": "Medium",
+      "analysis": "The hammer/wood metaphor is defensible framing. Combining the 1,200 FX margin AND 800 intermediary fees adds up to 2K total = exactly $48K supplier received, which is internally consistent. Main red flag is the 800 intermediary figure is plausible but presented as universal when intermediary bank fees vary widely. 'Won't start production' framed as inevitable. 'Supplier starts that day' on WF side is a confident claim.",
+      "skeptic_comments": [
+        {
+          "text": "800 intermediary fee on a 50K wire? That's high. Mine more like 30 to 50 USD.",
+          "severity": "high"
+        },
+        {
+          "text": "Hammer wood analogy ok but show me the actual product first.",
+          "severity": "mid"
+        },
+        {
+          "text": "Supplier starts day money lands? Supplier got their own queue too.",
+          "severity": "mid"
+        },
+        {
+          "text": "Where WorldFirst regulated? PayNet? BNM? Or some offshore thing?",
+          "severity": "high"
+        },
+        {
+          "text": "Sound nice but I trust bank more lah. Got branch, got person to call.",
+          "severity": "mid"
+        }
+      ]
+    },
+    "PG4": {
+      "red_flag": "Medium",
+      "analysis": "'Truth nobody's telling you' was softened to 'something nobody's telling you' which lowers the conspiratorial tone, good. 'This is how it works. Every single time.' is an absolute that a skeptic with one positive bank experience can disprove. The fee vs rate teaching is genuine and useful. 'The rate you see is the rate you get' is a clean WF claim but a skeptic will want to see proof.",
+      "skeptic_comments": [
+        {
+          "text": "Every single time? I send last month and supplier got within 50 USD of quoted.",
+          "severity": "high"
+        },
+        {
+          "text": "Bank don't make money on wire fee, make money on rate. Ok this part true actually.",
+          "severity": "low"
+        },
+        {
+          "text": "2.5% worse than real rate, where you get this? Bloomberg?",
+          "severity": "high"
+        },
+        {
+          "text": "Rate you see is rate you get, prove it la. Show live quote.",
+          "severity": "mid"
+        },
+        {
+          "text": "Who is WorldFirst? Need to research first.",
+          "severity": "mid"
+        }
+      ]
+    },
+    "PG5": {
+      "red_flag": "Low",
+      "analysis": "Cleanest script in the set. The 'call the bank, they blame intermediary, intermediary blames receiving' beat is a real and well-known pain point that any importer who's been stuck on that call will immediately recognize as true. Soft on specific numbers (no 2.5%, no 1,200, no compound math). 'Your margin is bleeding' is metaphor not claim. 'This happens every week. Every single week.' is the only overreach. Most defensible script.",
+      "skeptic_comments": [
+        {
+          "text": "Ya the blame game is real. Bank, intermediary, receiving all pointing finger.",
+          "severity": "low"
+        },
+        {
+          "text": "Every week? Bit much. Maybe every few months.",
+          "severity": "mid"
+        },
+        {
+          "text": "Supplier starts and I sleep, nice line but show me how WorldFirst do it lah.",
+          "severity": "mid"
+        },
+        {
+          "text": "Who is WorldFirst? Got Malaysia license?",
+          "severity": "high"
+        },
+        {
+          "text": "Ok this one feel less ad than others. Still want proof.",
+          "severity": "low"
+        }
+      ]
+    }
+  },
+  "ship_version_default": {
+    "PH1": "clarity",
+    "PH2": "clarity",
+    "PH3": "final",
+    "PH4": "final",
+    "PH5": "final",
+    "PG1": "clarity",
+    "PG2": "final",
+    "PG3": "final",
+    "PG4": "clarity",
+    "PG5": "final"
+  }
+}

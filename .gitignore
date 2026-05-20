@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+SEA_Batch1_Final_Scripts.docx
+SEA_Batch1_tmp_*.docx
+_final_scripts.md
+.final_doc_id

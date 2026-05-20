@@ -1,0 +1,52 @@
+[
+  {
+    "slide_id": "P1-A6-1",
+    "card_id": "P1-A6",
+    "card_title": "Why paying your supplier in CNY actually wins",
+    "video_title": "USD feels safer. It costs you 2% more.",
+    "approach": "Reframe",
+    "format_spec": "Short-form 60s \u00b7 bilingual",
+    "pillar": "P1",
+    "topic": "05"
+  },
+  {
+    "slide_id": "P2-A14-1",
+    "card_id": "P2-A14",
+    "card_title": "Credit cards for international supplier payments: the gap",
+    "video_title": "Why your supplier said no to the card",
+    "approach": "Category",
+    "format_spec": "Short-form 60s",
+    "pillar": "P2",
+    "topic": "04"
+  },
+  {
+    "slide_id": "P2-A24-1",
+    "card_id": "P2-A24",
+    "card_title": "When CAN you pay a Chinese supplier by card?",
+    "video_title": "When CAN you pay a Chinese supplier by card?",
+    "approach": "Tutorial",
+    "format_spec": "Short-form 60s",
+    "pillar": "P2",
+    "topic": "04"
+  },
+  {
+    "slide_id": "P2-A3-1",
+    "card_id": "P2-A3",
+    "card_title": "Bank wire vs WorldFirst on the same $50K payment",
+    "video_title": "I sent $50K. My supplier got $48,500. Here is why.",
+    "approach": "Story",
+    "format_spec": "Short-form 60s comparison",
+    "pillar": "P2",
+    "topic": "03"
+  },
+  {
+    "slide_id": "P2-A8-1",
+    "card_id": "P2-A8",
+    "card_title": "How to read FX margin off your wire confirmation",
+    "video_title": "Find the hidden FX margin in 30 seconds",
+    "approach": "Tutorial",
+    "format_spec": "Short-form 60s tutorial",
+    "pillar": "P2",
+    "topic": "02"
+  }
+]
